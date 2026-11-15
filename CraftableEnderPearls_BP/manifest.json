@@ -1,0 +1,26 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Craftable Ender Pearls BP",
+    "description": "Adds a survival crafting recipe for Ender Pearls.",
+    "uuid": "8a4f2b10-9c3d-4e5f-a1b2-3c4d5e6f7a8b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "9f8e7d6c-5b4a-3f2e-1d0c-9b8a7f6e5d4c",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "product_type": "addon"
+  }
+}
